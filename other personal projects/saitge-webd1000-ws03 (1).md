@@ -62,7 +62,8 @@ Fill in your own **Content Inventory Table** below.
 | ------------ | ------------ | ------------------------------- | -------------------- | ----------------------- | ----- |
 |  HomePage    |Welcomemessage|               |                         |       |
 |  Homepage    |carousleogimgs|                     |                      |                         |       |
-|              |              |                                 |                      |                         |       |
+|  Records
+|  about            |                                 |                      |                         |       |
 
 *(Add more rows as needed.)*
 
