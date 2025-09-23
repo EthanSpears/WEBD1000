@@ -1,0 +1,33 @@
+body {
+  background-color: #0077cc;
+  color: #000000;
+}
+.top-ribbon {
+  position: absolute;
+  top: 50%;                 /* move to 50% down the page */
+  left: 50%;                /* move to 50% across the page */
+  transform: translate(-50%, -50%);  /* shift back half of the element's size */
+  
+  background-color: #ffffff;
+  padding: 35px 350px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  gap: 10px;
+}
+.top-ribbon button {
+  font-size: 1.2rem;        /* Larger text */
+  padding: 20px 30px;       /* Bigger buttons */
+  min-width: 140px;         /* Optional: equal width buttons */
+  
+  background-color: #0077cc;
+  color: rgb(0, 0, 0);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.top-ribbon button:hover {
+  background-color: #005fa3;
+}
