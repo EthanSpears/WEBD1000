@@ -25,12 +25,10 @@ This exercise will guide you through creating both.
 * Who is your main audience?
 * What should visitors be able to do?
 
-**My Website Idea: is a portfolio**
+**My Website Idea: is a portfolio of game achievements and copetitive speedruns
 
 ```
-To demonstrate personal game achievements and records
-The targettted audience is competitive people in the gaming community
-To view my gaming records, and submit their own to compete with me and others in the community.
+The purpose if for gamers as a collective community to share speedrun times
 ```
 
 ---
