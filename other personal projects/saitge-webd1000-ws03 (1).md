@@ -25,10 +25,12 @@ This exercise will guide you through creating both.
 * Who is your main audience?
 * What should visitors be able to do?
 
-**My Website Idea: is a portfolio of game achievements and copetitive speedruns
+**My Website Idea: is a portfolio of my competitive game achievements
 
 ```
-The purpose if for gamers as a collective community to share speedrun times
+The purpose is for other gamers and media scouts to view my personal gaming records
+gamers and streaming services
+visitors should be able to view personal gaming records, and share their own
 ```
 
 ---
@@ -58,10 +60,11 @@ Fill in your own **Content Inventory Table** below.
 
 | Page/Section | Content Item | Type (Text, Image, Video, Form) | Source (Where from?) | Priority (High/Med/Low) | Notes |
 | ------------ | ------------ | ------------------------------- | -------------------- | ----------------------- | ----- |
-|  HomePage    |Welcomemessage|               |                         |       |
-|  Homepage    |carousleogimgs|                     |                      |                         |       |
-|  Records
-|  about            |                                 |                      |                         |       |
+|  HomePage    |Welcomemessage|text                             |written myself        |high                     |keep short
+|  Homepage    |image         |image                            |Ultrakill(Hakita)     |high                     |resize
+|  Records     |Speedrun rcrds|text+video                       |User submitted        |top                      |must be valid
+|  about       |about me      |text                             |written myself        |high                     |use basic language
+|  Contact     |Contact info  |text                             |written myself        |medium                   |contact info must be up to date
 
 *(Add more rows as needed.)*
 
