@@ -1,3 +1,4 @@
+#start up
 def calculate_grade():
     print("Welcome to the Grading Calculator!\n")
 
@@ -47,3 +48,6 @@ def calculate_grade():
 
 # Run the calculator
 calculate_grade()
+
+## The most challenging part of all of this is figuring out what i wanted to do, and what extra components i wanted to add once i finished the basic functions.
+## The Trace Table helped me spot errors early in the function of my code, and helped me code in a much more well-paced and smooth fashion, rather than it feeling rushed
