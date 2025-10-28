@@ -3,14 +3,18 @@
     align-items: center;
     border-style: solid;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 
-.logo-container{
+.logo-inner-container{
     display: inline-block;
+    border-style: solid;
+    justify-content: center;
     
 }
 
 .nav-container{
     display: inline-block;
     border-style: solid;
+    justify-content: center;
 }
