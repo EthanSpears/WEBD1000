@@ -6,11 +6,11 @@
     justify-content: space-between;
 }
 
-.logo-inner-container{
+.logo-container{
     display: inline-block;
     border-style: solid;
     justify-content: center;
-    
+    align-items: center;
 }
 
 .nav-container{
