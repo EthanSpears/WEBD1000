@@ -20,9 +20,6 @@ def sep(char: str = "-", width: int = 50):
     print(char * width)
 
 
-# -------------------------------
-# Part A — Data setup (Week 5)
-# -------------------------------
 # Expanded move set (includes lizard & spock)
 valid_moves: List[str] = ["rock", "paper", "scissors", "lizard", "spock"]
 valid_set = set(valid_moves)
@@ -34,7 +31,7 @@ score: Dict[str, int] = {"player": 0, "cpu": 0, "ties": 0}
 # Each record: {"round": int, "player": str, "cpu": str, "result": "player|cpu|tie"}
 history: List[Dict[str, object]] = []
 
-# Outcome rules (Week 3): mapping of winning pairs
+
 # For RPSLS (Rock Paper Scissors Lizard Spock)
 wins_over: set[Tuple[str, str]] = {
     ("rock", "scissors"), ("rock", "lizard"),
@@ -46,7 +43,7 @@ wins_over: set[Tuple[str, str]] = {
 
 
 # -------------------------------
-# Part A — Functions (Week 9)
+# Part A — Functions
 # -------------------------------
 def get_player_move(valid_set: set[str]) -> str:
     """
